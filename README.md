@@ -76,3 +76,4 @@ To carry out any subsequent actions on this database––adding a column to the
 2. Confirm that your execution of the `.sql` file worked by entering into your database in the terminal with the `sqlite3 pets_database.db` command. Once there, execute the `.schema` command and you should see that the schema of the Cats table does include the `breed` column.
 
 <a href='https://learn.co/lessons/databases-and-text-editors' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>PHRG Databases and Text Editors</p>
